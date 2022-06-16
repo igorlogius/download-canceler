@@ -1,3 +1,3 @@
 #!/bin/bash
-export AMO='https://addons.mozilla.org/firefox/addon/downloads-canceler' 
+export AMO='https://addons.mozilla.org/firefox/addon/download-canceler' 
 curl 'https://raw.githubusercontent.com/igorlogius/meta-addon-builder/main/README' | sh

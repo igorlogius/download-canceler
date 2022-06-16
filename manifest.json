@@ -8,7 +8,7 @@
   "browser_action": {
     "default_title": "enable to allow the next download"
   },
-  "description": "auto cancel downloads with user exceptions via the toolbar",
+  "description": "auto cancel downloads which allows to make quick exceptions via the toolbar icon",
   "icons": {
   },
   "manifest_version": 2,
@@ -16,5 +16,5 @@
   "permissions": [
     "downloads"
   ],
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
