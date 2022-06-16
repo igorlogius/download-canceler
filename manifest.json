@@ -10,11 +10,12 @@
   },
   "description": "auto cancel downloads which allows to make quick exceptions via the toolbar icon",
   "icons": {
+    "128": "icon.png"
   },
   "manifest_version": 2,
   "name": "Download Canceler",
   "permissions": [
     "downloads"
   ],
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
