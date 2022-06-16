@@ -1,0 +1,20 @@
+{
+  "author": "igorlogius",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "browser_action": {
+    "default_title": "enable to allow the next download"
+  },
+  "description": "auto cancel downloads with user exceptions via the toolbar",
+  "icons": {
+  },
+  "manifest_version": 2,
+  "name": "Download Canceler",
+  "permissions": [
+    "downloads"
+  ],
+  "version": "1.0.0"
+}
